@@ -3,4 +3,6 @@ x = 1
 y = 2
 print(x + y)
 iknow = "I know how to code!"
-#집가고 싶다.
+go_home ="집가고 싶다"
+for i in range(5):
+    print(go_home)
